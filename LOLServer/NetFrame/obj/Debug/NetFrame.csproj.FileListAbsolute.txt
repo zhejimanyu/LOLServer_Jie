@@ -1,0 +1,5 @@
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\NetFrame\bin\Debug\NetFrame.dll
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\NetFrame\bin\Debug\NetFrame.pdb
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\NetFrame\obj\Debug\NetFrame.dll
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\NetFrame\obj\Debug\NetFrame.pdb
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache

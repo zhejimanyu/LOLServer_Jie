@@ -1,0 +1,10 @@
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\LOLServer_Jie.exe.config
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\LOLServer_Jie.exe
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\LOLServer_Jie.pdb
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\NetFrame.dll
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\NetFrame.pdb
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\obj\Debug\LOLServer_Jie.csprojResolveAssemblyReference.cache
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\obj\Debug\LOLServer_Jie.exe
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\obj\Debug\LOLServer_Jie.pdb
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\GameProtocol.dll
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\LOLServer_Jie\bin\Debug\GameProtocol.pdb

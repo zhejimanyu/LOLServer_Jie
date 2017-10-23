@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOLServer_Jie", "LOLServer_Jie\LOLServer_Jie.csproj", "{AE4D19D9-AF02-43F5-81EF-624ADFE66D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrame", "NetFrame\NetFrame.csproj", "{9A6C4BCD-EC76-4D45-8B88-A90ED429919E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProtocol", "GameProtocol\GameProtocol.csproj", "{9CBB4090-C28B-465A-8EB4-457EA66B8FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4D19D9-AF02-43F5-81EF-624ADFE66D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4D19D9-AF02-43F5-81EF-624ADFE66D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4D19D9-AF02-43F5-81EF-624ADFE66D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4D19D9-AF02-43F5-81EF-624ADFE66D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6C4BCD-EC76-4D45-8B88-A90ED429919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6C4BCD-EC76-4D45-8B88-A90ED429919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6C4BCD-EC76-4D45-8B88-A90ED429919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6C4BCD-EC76-4D45-8B88-A90ED429919E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBB4090-C28B-465A-8EB4-457EA66B8FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBB4090-C28B-465A-8EB4-457EA66B8FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBB4090-C28B-465A-8EB4-457EA66B8FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBB4090-C28B-465A-8EB4-457EA66B8FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

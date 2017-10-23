@@ -1,0 +1,4 @@
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\GameProtocol\bin\Debug\GameProtocol.dll
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\GameProtocol\bin\Debug\GameProtocol.pdb
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\GameProtocol\obj\Debug\GameProtocol.dll
+G:\_UnityProject\Unity5.0.0\LOL_Jie\LOLServer_Jie\LOLServer_Jie\GameProtocol\obj\Debug\GameProtocol.pdb
